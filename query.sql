@@ -1,3 +1,5 @@
+-- Movie rental data tables
+
 SELECT * FROM actor
 SELECT * FROM category
 SELECT * FROM payment
